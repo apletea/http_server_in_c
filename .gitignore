@@ -1,0 +1,6 @@
+*.o
+.flavor
+.objs
+htpp_server.so
+assets.h
+cert
